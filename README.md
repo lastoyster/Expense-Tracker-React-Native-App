@@ -11,7 +11,7 @@ Make sure you have Node.js and npm installed on your system.
 
 bash
 Copy code
-git clone https://github.com/N1k0l1n/Expense-Tracker-Native.git
+git clone https://github.com/lastoyster/Expense-Tracker-React-Native-App.git
 Navigate to the project directory:
 
 bash
@@ -31,7 +31,6 @@ Use the Expo app on your mobile device to scan the QR code displayed in the term
 
 Note: Make sure your mobile device and development machine are on the same network.
 
-The Foodie Recipes app should now be up and running on your mobile device.
 
 ## Technologies Used
 React Native
@@ -62,9 +61,7 @@ Copy code
 git push origin feature/your-feature
 Open a pull request.
 
-## Please ensure that your code follows the existing coding style and conventions.
-![Capture](https://github.com/N1k0l1n/Expense-Tracker-Native/assets/97979235/74faf849-de5e-4439-b4bf-1bd60e732d8b)
-![Capturyghe](https://github.com/N1k0l1n/Expense-Tracker-Native/assets/97979235/3df4562d-3e7c-4e35-99b2-491023735bdc)
+
 
 ## License
 The Foodie Recipes app is open-source software licensed under the MIT License.
